@@ -11,7 +11,7 @@ The three reasons OBS might be useful to you are:
 
 ## Getting started
 
-Go get OBS from [https://obsproject.com/](their website), install it on your machine, and run it.  Then go through [https://www.youtube.com/watch?v=wAvQfjpZncY](this tutorial) or one of the many other OBS tutorials on YouTube.  The important things to learn are basic navigation in OBS and the core concepts of scenes and sources.  I recommend setting up a couple of scenes for the following likely business situations as an exercise:
+Go get OBS from [their website](https://obsproject.com/), install it on your machine, and run it.  Then go through [this tutorial](https://www.youtube.com/watch?v=wAvQfjpZncY) or one of the many other OBS tutorials on YouTube.  The important things to learn are basic navigation in OBS and the core concepts of scenes and sources.  I recommend setting up a couple of scenes for the following likely business situations as an exercise:
 - Powerpoint or Excel with your webcam to the side or on top.  Experiement with adding a filter on your webcam to make it partially transparent if you wish to superimpose your camera over your business application.
 - Capture your web browser and verify that it works as expected.  You may need to use a "Game Capture" source instead of a "Window Capture" source.  This trick can apply to other applications as well: it is just a different mode of capture designed for games primarily, but is sometimes needed for non-game applications as well.
 - Create a "Be Right Back" scene that you can switch to during a live presentation.
